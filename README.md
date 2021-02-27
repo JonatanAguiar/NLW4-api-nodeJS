@@ -1,15 +1,15 @@
-# NLW 4 Tilha NodeJS <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="node" width="50" height="50"/> 🚀👨‍💻
+# NLW 4 Tilha NodeJS <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="node" width="50" height="50"/> 🚀👨‍💻
 
 Na quarta **Next Level Week**, trilha de NodeJS, foi desenvolvida uma API Rest de NPS (Net Promoter Score).
 
-> "O **Net Promoter Score** é uma métrica que tem como objetivo medir a satisfação e lealdade dos clientes com as empresas.<br/> <br/> 
+> "O **Net Promoter Score** é uma métrica que tem como objetivo medir a satisfação e lealdade dos clientes com as empresas. 
 Organizações de todos os portes e lugares do mundo utilizam o NPS por ser um método prático e eficaz durante as pesquisas periódicas realizadas com seus clientes."
 Fonte: dds.com.br
 <br/> <br/>
 
-#Tecnologias e instrutor
+# Sobre o instrutor e tecnologias
 
-👩‍💻 A **[Daniele Evangelista](https://www.linkedin.com/in/daniele-leão-evangelista-5540ab25/)** foi instrutora da trilha nodeJS [Rocketseat](https://rocketseat.com.br/)
+👩‍💻 A **[Daniele Evangelista](https://www.linkedin.com/in/daniele-leão-evangelista-5540ab25/)** foi a instrutora da trilha de nodeJS da [Rocketseat](https://rocketseat.com.br/)
 <br/><br/>
 Técnologias Utilizadas: <br/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="node" width="70" height="70"/>
@@ -23,5 +23,5 @@ Técnologias Utilizadas: <br/>
 
 
 <p>    
-<img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" alt="linkedin" width="30" height="30"/>Conecta lá no LinkedIn: <a href="https://www.linkedin.com/in/jkdeaguiar/">Jonatan Aguiar</a>
+<img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedin" width="30" height="30"/>Conecta lá no LinkedIn: <a href="https://www.linkedin.com/in/jkdeaguiar/">Jonatan Aguiar</a>
 </p>
