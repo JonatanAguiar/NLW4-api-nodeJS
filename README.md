@@ -1,4 +1,4 @@
-# NLW 4 Tilha NodeJS <img src="https://w7.pngwing.com/pngs/780/57/png-transparent-node-js-javascript-database-mongodb-native-miscellaneous-text-trademark.png" alt="node" width="50" height="50"/> 🚀👨‍💻
+# NLW 4 Tilha NodeJS 🚀👨‍💻
 
 Na quarta **Next Level Week**, trilha de NodeJS, foi desenvolvida uma API Rest de NPS (Net Promoter Score).
 
