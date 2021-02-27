@@ -1,4 +1,4 @@
-# NLW 4 Tilha NodeJS <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="node" width="50" height="50"/> 🚀👨‍💻
+# NLW 4 Tilha NodeJS <img src="https://w7.pngwing.com/pngs/780/57/png-transparent-node-js-javascript-database-mongodb-native-miscellaneous-text-trademark.png" alt="node" width="50" height="50"/> 🚀👨‍💻
 
 Na quarta **Next Level Week**, trilha de NodeJS, foi desenvolvida uma API Rest de NPS (Net Promoter Score).
 
@@ -23,5 +23,5 @@ Técnologias Utilizadas: <br/>
 
 
 <p>    
-<img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedin" width="30" height="30"/>Conecta lá no LinkedIn: <a href="https://www.linkedin.com/in/jkdeaguiar/">Jonatan Aguiar</a>
+<img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedin" width="10" height="10"/> Conecta lá no LinkedIn: <a href="https://www.linkedin.com/in/jkdeaguiar/">Jonatan Aguiar</a>
 </p>
