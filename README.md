@@ -10,8 +10,8 @@ Fonte: dds.com.br
 #Tecnologias e instrutor
 
 👩‍💻 A **[Daniele Evangelista](https://www.linkedin.com/in/daniele-leão-evangelista-5540ab25/)** foi instrutora da trilha nodeJS [Rocketseat](https://rocketseat.com.br/)
-<br/>
-Técnologias Utilizadas: 
+<br/><br/>
+Técnologias Utilizadas: <br/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="node" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/>
@@ -23,5 +23,5 @@ Técnologias Utilizadas:
 
 
 <p>    
-<img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" alt="linkedin" width="50" height="50"/> Conecta lá no LinkedIn:<a href="https://www.linkedin.com/in/jkdeaguiar/">Jonatan Aguiar</a>
+<img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" alt="linkedin" width="30" height="30"/>Conecta lá no LinkedIn: <a href="https://www.linkedin.com/in/jkdeaguiar/">Jonatan Aguiar</a>
 </p>
